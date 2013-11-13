@@ -88,6 +88,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\js\angular-google-maps.js" />
     <Content Include="Content\js\angular.js" />
     <Content Include="Content\js\app.js" />
     <Content Include="Content\js\ss-validation.js" />

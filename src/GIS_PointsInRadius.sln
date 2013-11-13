@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GIS.Data", "GIS.Data\GIS.Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GIS.Data.Generate", "GIS.Data.Generate\GIS.Data.Generate.csproj", "{4E9880C1-0D48-4AF9-A914-46C345B5189C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GIS.WebAPI", "GIS.WebAPI\GIS.WebAPI.csproj", "{15097970-6A13-4FD5-BF31-D2E80E99D3EE}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,10 +25,6 @@ Global
 		{4E9880C1-0D48-4AF9-A914-46C345B5189C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E9880C1-0D48-4AF9-A914-46C345B5189C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E9880C1-0D48-4AF9-A914-46C345B5189C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{15097970-6A13-4FD5-BF31-D2E80E99D3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{15097970-6A13-4FD5-BF31-D2E80E99D3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{15097970-6A13-4FD5-BF31-D2E80E99D3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{15097970-6A13-4FD5-BF31-D2E80E99D3EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -24,3 +24,29 @@ C:\Projects\TFS2012\Corporate Web Services\GIS_PointsInRadius\GIS_PointsInRadius
 C:\Projects\TFS2012\Corporate Web Services\GIS_PointsInRadius\GIS_PointsInRadius\bin\ServiceStack.Redis.xml
 C:\Projects\TFS2012\Corporate Web Services\GIS_PointsInRadius\GIS_PointsInRadius\bin\ServiceStack.Text.xml
 C:\Projects\TFS2012\Corporate Web Services\GIS_PointsInRadius\GIS_PointsInRadius\bin\MongoDB.Driver.xml
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\GIS_PointsInRadius.dll
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\GIS_PointsInRadius.pdb
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\GIS.Data.dll
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\ServiceStack.Common.dll
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\ServiceStack.dll
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\ServiceStack.Interfaces.dll
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\ServiceStack.OrmLite.dll
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\ServiceStack.OrmLite.SqlServer.dll
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\ServiceStack.Redis.dll
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\ServiceStack.ServiceInterface.dll
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\ServiceStack.Text.dll
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\WebActivator.dll
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\MongoDB.Driver.dll
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\MongoDB.Bson.dll
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\GIS.Data.pdb
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\ServiceStack.xml
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\ServiceStack.Common.xml
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\ServiceStack.Interfaces.xml
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\ServiceStack.Redis.xml
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\ServiceStack.Text.xml
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\MongoDB.Driver.xml
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\bin\MongoDB.Bson.xml
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\obj\Debug\GIS_PointsInRadius.csprojResolveAssemblyReference.cache
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\obj\Debug\GIS_PointsInRadius.dll
+C:\Users\RMelfi\Documents\GitHub\challenge-ryanmelfi\src\GIS_PointsInRadius\obj\Debug\GIS_PointsInRadius.pdb
