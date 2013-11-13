@@ -8,7 +8,7 @@ function gisCtrl($scope, $http) {
             params:$scope.query
                 
         }).then(function (response) {
-            var markers = []
+            var markers = [];
             for (var i = 0; i < response.data.results.length; i++) {
                 switch (response.data.results[i].t) {
                     case 0:
